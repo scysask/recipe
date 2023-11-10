@@ -7,3 +7,4 @@ All-purpose flour, for dredging
 1/2 cup chicken stock
 1/4 cup brined capers, rinsed
 1/3 cup fresh parsley, chopped
+Zest of half a lemon

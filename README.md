@@ -11,6 +11,8 @@ line 2 changed remotely
 
 Source: https://www.foodnetwork.com/recipes/giada-de-laurentiis/chicken-piccata-recipe2-1913809
 
+![Chicken Piccata](recipe.jpg "Chicken Piccata")
+
 *Enjoy my recipe!*
 **last line changed locally**
 

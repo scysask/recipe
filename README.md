@@ -11,8 +11,8 @@ line 2 changed remotely
 
 Source: https://www.foodnetwork.com/recipes/giada-de-laurentiis/chicken-piccata-recipe2-1913809
 
-Enjoy my recipe!
-last line changed locally
+*Enjoy my recipe!*
+**last line changed locally**
 
 ### This is a REMOTE change :O
 
